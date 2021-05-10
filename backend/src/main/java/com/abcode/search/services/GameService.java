@@ -1,9 +1,7 @@
 package com.abcode.search.services;
 
 import com.abcode.search.dto.GameDTO;
-import com.abcode.search.entities.Game;
 import com.abcode.search.repositories.GameRepository;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
